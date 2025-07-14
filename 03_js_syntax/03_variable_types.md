@@ -87,6 +87,17 @@ function(){} instanceof Function // true
 
 > 💡 `instanceof`는 참조 타입(객체)을 정확히 구별 가능
 
+### 1-3-3. `Object.prototype.toString.call()`
+
+-   정확한 내부 타입을 문자열로 반환 (모든 타입 식별 가능)
+
+```js
+let arr = [1, 2, 3];
+console.log(Object.prototype.toString.call(arr)); // '[object Array]'
+```
+
+> 💡 `Object.prototype.toString.call()`은 `null`, `array`, `date`, `function` 등을 구분할 때 유용
+
 ## 1-4. 변수 저장 방식
 
 ### 1-4-1. 원시 타입
