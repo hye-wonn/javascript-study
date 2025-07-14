@@ -1,0 +1,136 @@
+📁 06_Objects_and_Arrays
+01_Object_and_Array.md
+→ 객체 리터럴, 배열 기초 구조
+
+02_Object_Details.md
+→ 메서드, 프로퍼티 접근 방식, 객체 반복 등
+
+---
+
+📁 07_Control_Flow
+01_Conditional_Statements.md
+→ if, else, switch
+
+02_Loops.md
+→ for, while, do...while, break, continue
+
+03_Spread_and_Destructuring.md
+→ 전개 연산자(...), 구조 분해 할당
+
+---
+
+📁 08_Advanced_Concepts
+01_This_Keyword.md
+→ this의 다양한 문맥
+
+02_ForIn_vs_ForOf.md
+
+03_Map_and_Set.md
+
+04_JSON.md
+→ JSON 구조, JSON.parse, JSON.stringify
+
+---
+
+📁 09_Review
+01_Concept_Check.md
+→ 전체 개념 확인 문제 (퀴즈 스타일도 가능)
+
+---
+
+📁 10_DOM
+01_DOM_Access.md
+→ getElementById, querySelector 등
+
+02_DOM_Manipulation.md
+→ 요소 추가, 제거, 수정, 스타일 변경 등
+
+03_DOM_EventFlow.md
+→ 이벤트 캡처링 vs 버블링, addEventListener, 이벤트 객체
+
+---
+
+📁 11_Class_and_OOP
+01_Class_Usage_with_Game.md
+→ 게임 예제를 통한 class, constructor, extends, super 등
+
+---
+
+📁 12_Async_Programming
+01_Promise_Basics.md
+
+02_Fetch_Async_Await.md
+
+---
+
+📁 13_Appendix
+01_LocalStorage.md
+
+02_Date_and_Time.md
+
+03_Script_Placement_2021.md
+
+04_ES_Version_Notes.md
+
+05_JS_CheatSheet.md
+
+---
+
+✅ 보너스 파일 (전체 요약본 예시)
+JavaScript_Introduction.md → 입문용 정리
+
+JavaScript_Fundamentals.md → 핵심 요약
+
+Web_and_JS_Essentials.md → 웹과 JS의 기초 통합 요약
+
+---
+
+💡 최종 폴더 예시
+📁 Web_and_JavaScript
+├── 01_Web_Basics
+│   ├── 01_Browser_Components.md
+│   └── 02_JavaScript_Usage_Methods.md
+├── 02_JavaScript_Basics
+│   ├── 01_Console_Output.md
+│   └── 02_BOM_Window_Object.md
+├── 03_JavaScript_Syntax
+│   ├── 01_Comments.md
+│   ├── 02_Variables.md
+│   └── 03_Variable_Types.md
+├── 04_Primitive_Types
+│   ├── 01_String_Type.md
+│   ├── 02_Number_Type.md
+│   └── 03_Boolean_Type.md
+├── 05_Functions
+│   ├── 01_Function_Basics.md
+│   └── 02_Function_Usage.md
+├── 06_Objects_and_Arrays
+│   ├── 01_Object_and_Array.md
+│   └── 02_Object_Details.md
+├── 07_Control_Flow
+│   ├── 01_Conditional_Statements.md
+│   ├── 02_Loops.md
+│   └── 03_Spread_and_Destructuring.md
+├── 08_Advanced_Concepts
+│   ├── 01_This_Keyword.md
+│   ├── 02_ForIn_vs_ForOf.md
+│   ├── 03_Map_and_Set.md
+│   └── 04_JSON.md
+├── 09_Review
+│   └── 01_Concept_Check.md
+├── 10_DOM
+│   ├── 01_DOM_Access.md
+│   ├── 02_DOM_Manipulation.md
+│   └── 03_DOM_EventFlow.md
+├── 11_Class_and_OOP
+│   └── 01_Class_Usage_with_Game.md
+├── 12_Async_Programming
+│   ├── 01_Promise_Basics.md
+│   └── 02_Fetch_Async_Await.md
+├── 13_Appendix
+│   ├── 01_LocalStorage.md
+│   ├── 02_Date_and_Time.md
+│   ├── 03_Script_Placement_2021.md
+│   ├── 04_ES_Version_Notes.md
+│   └── 05_JS_CheatSheet.md
+└── JavaScript_Fundamentals.md
