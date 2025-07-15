@@ -1,12 +1,3 @@
-📁 06_Objects_and_Arrays
-01_Object_and_Array.md
-→ 객체 리터럴, 배열 기초 구조
-
-02_Object_Details.md
-→ 메서드, 프로퍼티 접근 방식, 객체 반복 등
-
----
-
 📁 07_Control_Flow
 01_Conditional_Statements.md
 → if, else, switch
